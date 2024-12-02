@@ -1,4 +1,4 @@
-import * as Tone from "https://cdn.jsdelivr.net/npm/tone@14.8.29/build/Tone.js";
+import * as Tone from "https://cdn.jsdelivr.net/npm/tone";
 
 const scales = ["C", "D", "E", "F", "G", "A", "B"];
 const sequences = [
