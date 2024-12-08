@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess-tonal-code/static/css/main.2b89c463.css",
+    "main.js": "/guess-tonal-code/static/js/main.19aa8a38.js",
+    "index.html": "/guess-tonal-code/index.html",
+    "main.2b89c463.css.map": "/guess-tonal-code/static/css/main.2b89c463.css.map",
+    "main.19aa8a38.js.map": "/guess-tonal-code/static/js/main.19aa8a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b89c463.css",
+    "static/js/main.19aa8a38.js"
+  ]
+}
